@@ -12,7 +12,7 @@ A repository for you to start automatizing your tasks right away.
 ___
 
 ### Installing
-1. `git clone https://github.com/luuizpaulo/gulp_starter_pack.git`
+1. `git clone https://github.com/luizdotpro/gulp_starter_pack.git`
 2. `cd gulp_starter_pack` 
 3. `npm install`
 4. `npm start`
